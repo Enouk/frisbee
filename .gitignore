@@ -1,0 +1,15 @@
+deps/
+data/
+.eunit
+ebin
+*.iml
+rel/frisbee
+.idea/
+*.patch
+*.swp
+*.dump
+*.sublime-workspace
+*.tags
+Mnesia.*/
+log/
+rel/vars/dev*vars.config
